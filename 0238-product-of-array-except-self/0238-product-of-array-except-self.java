@@ -10,11 +10,11 @@ class Solution {
             div[i] = div[i-1] * nums[i-1];
         }
 
-        int suffix = 1;
+        int count = 1;
 
         for(int i = n-1; i >= 0; i--){
-            div[i] = div[i] * suffix;
-            suffix = suffix * nums[i];
+            div[i] = div[i] * count;
+            count = count * nums[i];
         }
 
         return div;
