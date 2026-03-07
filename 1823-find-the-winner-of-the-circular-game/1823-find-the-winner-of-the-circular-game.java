@@ -1,21 +1,12 @@
-import java.util.*;
-
 class Solution {
     public int findTheWinner(int n, int k) {
 
-        List<Integer> players = new ArrayList<>();
+        int winner = 0;
 
-        for(int i = 1; i <= n; i++){
-            players.add(i);
+        for(int i = 2; i <= n; i++){
+            winner = (winner + k) % i;
         }
 
-        int index = 0;
-
-        while(players.size() > 1){
-            index = (index + k - 1) % players.size();
-            players.remove(index);
-        }
-
-        return players.get(0);
+        return winner + 1;
     }
 }
