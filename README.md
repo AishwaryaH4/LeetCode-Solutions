@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1137-n-th-tribonacci-number](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
