@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3731-find-missing-elements](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Sliding Window
 |  |
