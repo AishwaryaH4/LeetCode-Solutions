@@ -9,11 +9,8 @@ class Solution {
         }
 
         list.add(new int[]{1, 0});
-
         Collections.sort(list, (a, b) -> a[0] - b[0]);
-
         int m = list.size();
-
         for (int i = 1; i < m; i++) {
             int dist = list.get(i)[0] - list.get(i - 1)[0];
             list.get(i)[1] = Math.min(list.get(i)[1], list.get(i - 1)[1] + dist);
@@ -30,9 +27,7 @@ class Solution {
             list.add(new int[]{n, lastHeight + (n - lastPos)});
             m++;
         }
-
         int ans = 0;
-
         for (int i = 1; i < m; i++) {
             int x1 = list.get(i - 1)[0];
             int h1 = list.get(i - 1)[1];
@@ -44,7 +39,6 @@ class Solution {
 
             ans = Math.max(ans, peak);
         }
-
         return ans;
     }
 }
