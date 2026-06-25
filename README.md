@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0456-132-pattern) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0078-subsets) |
