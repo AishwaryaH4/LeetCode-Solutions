@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1137-n-th-tribonacci-number](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
