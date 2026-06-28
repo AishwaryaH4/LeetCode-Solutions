@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Stack
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Database
