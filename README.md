@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1991-find-the-middle-index-in-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3731-find-missing-elements](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1840-maximum-building-height](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3731-find-missing-elements](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
