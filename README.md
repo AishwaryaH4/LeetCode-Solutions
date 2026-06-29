@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Queue
