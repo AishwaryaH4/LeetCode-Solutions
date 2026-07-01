@@ -3,13 +3,14 @@ class Solution {
 
     public int maximumSafenessFactor(List<List<Integer>> grid) {
         int n = grid.size();
+
         int[][] dist = new int[n][n];
+        for (int[] row : dist)
+            Arrays.fill(row, -1);
+
         Queue<int[]> q = new LinkedList<>();
 
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(dist[i], -1);
-        }
-
+        // Multi-source BFS from all thieves
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid.get(i).get(j) == 1) {
@@ -33,51 +34,41 @@ class Solution {
             }
         }
 
-        int low = 0, high = 2 * n, ans = 0;
-
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-
-            if (canReach(dist, mid)) {
-                ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-
-        return ans;
-    }
-
-    private boolean canReach(int[][] dist, int limit) {
-        int n = dist.length;
-
-        if (dist[0][0] < limit) return false;
+        // Max Heap: {safeness, row, col}
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+            (a, b) -> b[0] - a[0]
+        );
 
         boolean[][] vis = new boolean[n][n];
-        Queue<int[]> q = new LinkedList<>();
-        q.offer(new int[]{0, 0});
-        vis[0][0] = true;
 
-        while (!q.isEmpty()) {
-            int[] cur = q.poll();
+        pq.offer(new int[]{dist[0][0], 0, 0});
 
-            if (cur[0] == n - 1 && cur[1] == n - 1)
-                return true;
+        while (!pq.isEmpty()) {
+            int[] cur = pq.poll();
+
+            int safe = cur[0];
+            int r = cur[1];
+            int c = cur[2];
+
+            if (vis[r][c])
+                continue;
+
+            vis[r][c] = true;
+
+            if (r == n - 1 && c == n - 1)
+                return safe;
 
             for (int[] d : dir) {
-                int x = cur[0] + d[0];
-                int y = cur[1] + d[1];
+                int nr = r + d[0];
+                int nc = c + d[1];
 
-                if (x >= 0 && y >= 0 && x < n && y < n &&
-                    !vis[x][y] && dist[x][y] >= limit) {
-
-                    vis[x][y] = true;
-                    q.offer(new int[]{x, y});
+                if (nr >= 0 && nc >= 0 && nr < n && nc < n && !vis[nr][nc]) {
+                    int newSafe = Math.min(safe, dist[nr][nc]);
+                    pq.offer(new int[]{newSafe, nr, nc});
                 }
             }
         }
 
-        return false;
+        return 0;
     }
 }
