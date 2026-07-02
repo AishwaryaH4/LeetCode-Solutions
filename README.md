@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3731-find-missing-elements](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -371,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
