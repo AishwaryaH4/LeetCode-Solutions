@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0761-special-binary-string](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
