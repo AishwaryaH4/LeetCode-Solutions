@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [1137-n-th-tribonacci-number](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1301-number-of-paths-with-max-score](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1301-number-of-paths-with-max-score](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Database
