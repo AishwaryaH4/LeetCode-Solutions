@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0393-utf-8-validation](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0393-utf-8-validation) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Recursion
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0393-utf-8-validation](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0393-utf-8-validation) |
 | [0403-frog-jump](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0456-132-pattern](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0463-island-perimeter) |
