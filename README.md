@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
+| [1288-remove-covered-intervals](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0761-special-binary-string](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0761-special-binary-string) |
+| [1288-remove-covered-intervals](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1840-maximum-building-height](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3731-find-missing-elements](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
