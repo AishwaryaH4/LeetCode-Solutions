@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AishwaryaH4/LeetCode-Solutions/tree/master/0231-power-of-two) |
